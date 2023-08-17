@@ -1,6 +1,17 @@
-<center>
-  [![Profile Views](https://komarev.com/ghpvc/?username=DamianoCasolari&style=for-the-badge&color=F47B22)](https://github.com/YourGitHubUsername)
-</center>
+<div align="center">
+  <div> 
+    <img src="https://komarev.com/ghpvc/?username=DamianoCasolari&style=for-the-badge&color=F47B22" alt="banner_counter">
+  </div>
+  <div> 
+    <a href="https://www.linkedin.com/in/damiano-casolari/">
+      <img src="https://1000marche.net/wp-content/uploads/2020/03/LinkedIn-Logo-1.png" alt="logo_linkedin" width="160">
+    </a>
+  </div>
+</div>
+
+
+<p>&nbsp;</p>
+
 <!--
 **DamianoCasolari/DamianoCasolari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
